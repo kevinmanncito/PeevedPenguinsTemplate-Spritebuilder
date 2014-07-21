@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>8</integer>
+	<integer>9</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -130,7 +130,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>3</integer>
+				<integer>8</integer>
 				<key>baseClass</key>
 				<string>CCBFile</string>
 				<key>children</key>
@@ -161,7 +161,7 @@
 						<key>value</key>
 						<array>
 							<real>72</real>
-							<real>88</real>
+							<real>87.999969482421875</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
